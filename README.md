@@ -10,4 +10,4 @@ The dataset is comprised of 25,000 terms contained within permanent exhibition p
 
 Results from this paper were presented at the 5th Conference on Computational Humanities Research in Aarhus, Denmark (December 4th - 6th, 2024) 
 
-Paper: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ceur-ws.org/Vol-3834/paper99.pdf
+Paper: https://ceur-ws.org/Vol-3834/paper99.pdf
