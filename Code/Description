@@ -1,1 +1,8 @@
+Description of the uploaded code 
 
+chr_functions.R
+-Helper functions to support chr_code.R 
+-Run before next script 
+
+chr_code.R
+-Main script used to carry out the research used to carry out the research 
